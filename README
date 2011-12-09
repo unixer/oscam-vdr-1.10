@@ -11,6 +11,8 @@
 
 2. Create folders:
       cd oscam-vdr-1.10 
+      ./config.sh
+      in section addons enables HAVE_DVBAPI
       mkdir build
       cd build
 
